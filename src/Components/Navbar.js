@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import {Link} from 'react-router-dom';
-import rocket from '/Users/apple/Desktop/store-recording/src/rocket.jpeg'; 
+import rocket from '../rocket.jpeg'; 
 import styled from 'styled-components';
 import {ButtonContainer} from './Button';
 
